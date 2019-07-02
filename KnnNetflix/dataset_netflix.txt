@@ -1,0 +1,151 @@
+10,0,42,Lottie Dottie Chicken-Ruim
+10,0,42,Thomas & Friends: Thomas & the Runaway Kite-Ruim
+10,0,42,LeapFrog: The Amazing Alphabet Amusement Park-Ruim
+10,0,42,The Adventures of Chuck & Friends-Ruim
+10,0,42,VeggieTales in the House-Ruim
+10,0,42,The Furchester Hotel-Ruim
+10,0,42,The Cat in the Hat Knows a Lot About That!-Ruim
+10,0,42,Bob the Builder-Ruim
+10,0,42,Chuggington-Ruim
+10,0,42,Robocar Poli-Ruim
+10,0,42,Chuggington-Ruim
+10,0,42,Octonauts-Ruim
+10,0,42,Mother Goose Club-Ruim
+10,0,42,Ask the StoryBots-Ruim
+10,0,42,The Furchester Hotel-Ruim
+10,0,42,Little Baby Bum: Nursery Rhyme Friends-Ruim
+10,0,42,Tayo the Little Bus-Ruim
+10,0,42,Sid the Science Kid-Ruim
+10,0,42,Chuggington-Ruim
+10,0,42,Octonauts-Ruim
+10,0,42,Word Party-Ruim
+10,0,42,Clifford the Big Red Dog-Ruim
+10,0,42,Chuggington-Ruim
+10,0,42,Octonauts-Ruim
+10,0,42,Little Baby Bum: Nursery Rhyme Friends-Ruim
+10,0,42,The Gruffalo-Ruim
+10,0,42,The Very Hungry Caterpillar and Other Stories-Ruim
+10,0,42,Pound Puppies-Ruim
+10,0,42,Care Bears: Welcome to Care-a-Lot-Ruim
+10,0,42,Clifford the Big Red Dog-Ruim
+10,0,42,Clifford's Puppy Days-Ruim
+10,0,42,Chuggington-Ruim
+10,0,42,Octonauts-Ruim
+10,0,42,My Animal Friends-Ruim
+10,0,42,Puffin Rock-Ruim
+10,0,42,Zoobabu-Ruim
+10,0,42,Sid the Science Kid: The Movie-Ruim
+10,0,42,The Gruffalo-Ruim
+10,0,42,Octonauts-Ruim
+10,0,42,The Gruffalo-Ruim
+10,0,42,Pound Puppies-Ruim
+10,0,42,Mia and Me-Ruim
+10,0,42,My Animal Friends-Ruim
+42,66,80,Justice League-Bom
+35,74,80,Cars Toons: Mater's Tall Tales-Bom
+42,67,80,LEGO Ninjago: Masters of Spinjitzu-Bom
+41,72,80,Dawn of the Croods-Bom
+42,71,80,Animaniacs-Bom
+35,79,80,Dawn of the Croods-Bom
+42,80,80,All Hail King Julien-Bom
+35,73,80,Atlantis: Milo's Return-Bom
+60,80,80,Chicken Run-Bom
+41,57,80,Mighty Morphin Power Rangers-Bom
+35,58,80,Growing Up Wild-Bom
+42,77,80,Star Wars: The Clone Wars-Bom
+35,84,80,Harry and the Hendersons-Bom
+60,85,80,The Batman-Bom
+35,78,80,Walt Disney Animation Studios Short Films Collection-Bom
+70,88,80,Mulan 2-Bom
+35,64,80,Barbie Life in the Dreamhouse-Bom
+42,89,80,The Adventures of Puss in Boots-Bom
+70,55,80,Jessie-Bom
+41,90,80,Spy Kids 3: Game Over-Bom
+35,83,80,Phineas and Ferb-Bom
+60,56,80,Life Unexpected-Bom
+90,88,80,Private Practice-Otimo
+90,88,80,Quantico-Otimo
+90,0,82,Breakout Kings-Otimo
+90,0,82,Forensic Files-Otimo 
+90,0,82,The Seven Deadly Sins-Otimo 
+90,0,82,Fearless-Otimo
+90,0,82,Inside Russia's Toughest Prison-Otimo
+90,0,82,Don't Trust the B---- in Apartment 23-Otimo
+90,0,82,Friends with Benefits-Otimo
+90,0,82,Halt and Catch Fire-Otimo
+90,0,82,Documentary Now!-Otimo
+90,0,82,Cooper Barrett's Guide to Surviving Life-Otimo
+90,0,82,Crazy Ex-Girlfriend-Otimo	
+90,0,82,No Tomorrow-Otimo
+90,0,82,Come Fly With Me-Otimo
+90,0,82,Unbreakable Kimmy Schmidt-Otimo
+90,0,82,November Rule-Otimo 
+90,0,82,Friends with Benefits-Otimo
+90,0,82,The Carrie Diaries-Otimo
+90,0,82,Halt and Catch Fire-Otimo
+90,0,82,Unbreakable Kimmy Schmidt-Otimo
+90,0,82,Witches of East End-Otimo
+90,0,82,Velvet-Otimo 
+90,0,82,Kurt Seyit & Sura-Otimo
+90,0,82,The Returned-Otimo 
+90,0,82,The Following-Otimo 
+90,0,82,Halt and Catch Fire-Otimo
+90,0,82,American Odyssey-Otimo
+90,0,82,Rectify-Otimo
+90,0,82,Being Mary Jane: The Series-Otimo
+90,0,82,American Crime-Otimo
+90,0,82,Scream-Otimo
+100,78,80,Blow-Otimo
+90,0,82,Happily Married-Otimo
+90,0,82,Abstract: The Art of Design-Otimo
+90,0,82,Deidra & Laney Rob a Train-Otimo
+90,0,82,The Wedding Party-Otimo
+100,79,80,Dope-Otimo
+90,90,80,That '70s Show-Otimo
+90,89,80,Lie to Me-Otimo
+100,79,80,Meet the Blacks-Otimo
+90,91,80,One Tree Hill-Otimo
+90,91,80,Stranger Things-Otimo
+90,91,80,The Vampire Diaries-Otimo
+90,91,80,Jane The Virgin-Otimo
+90,91,80,Gilmore Girls-Otimo
+90,91,80,New Girl-Otimo
+124,57,80, Hunter X Hunter (2011)-Otimo
+100,71,80,Louis C.K. 2017-Otimo
+90,92,80,Scandal-Otimo
+90,92,80,The Client List-Otimo
+110,0,82,Felipe Neto: My Life Makes No Sense-Otimo
+110,99,80,13 Reasons Why-Otimo
+124,97,80,The 100-Otimo
+124,0,82,Nymphomaniac: Volume 1-Otimo
+124,0,82,Back and Forth-Otimo
+124,0,82,Almost Adults-Otimo
+124,0,82,Honeytrap-Otimo
+124,0,82,Almost Adults-Otimo
+124,0,82,White Girl-Otimo
+124,0,82,Stronger Than the World-Otimo
+124,0,82,Like Cotton Twines-Otimo
+124,0,82,I.T-Otimo
+60,80,80,Honey-Otimo
+110,0,82,ÌÒ Pai-Otimo
+124,0,82,Sex-Otimo
+90,0,82,Drugs-Otimo
+110,0,82,The Discovery-Otimo
+110,0,82,Hot Girls Wanted: Turned On-Otimo
+110,0,82,The Discovery-Otimo
+110,0,82,Win It All-Otimo
+110,0,82,Amy Schumer: The Leather Special-Otimo
+110,0,82,Skins-Otimo
+110,0,82,Hot Girls Wanted: Turned On-Otimo
+110,0,82,Hurricane Bianca-Otimo
+110,0,82,Lazy Eye-Otimo
+110,0,82,Boy Bye-Otimo
+110,0,82,Hot Girls Wanted: Turned On-Otimo
+110,0,82,Better Off Single-Otimo
+110,0,82,Tramps-Otimo
+110,0,82,Slam-Otimo
+110,0,82,Ripper Street-Otimo
+110,0,82,The Honorable Woman-Otimo
+110,0,82,Transporter: The Series-Otimo
+110,0,82,Aquarius-Otimo
+
